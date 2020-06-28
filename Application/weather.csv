@@ -1,10 +1,10 @@
 ,period,Short Description,Temperature
-0,ThisAfternoon,Mostly Sunny,High: 88 °F
-1,Tonight,Partly Cloudy,Low: 79 °F
-2,Sunday,Mostly Sunny,High: 86 °F
-3,SundayNight,Mostly Cloudy,Low: 78 °F
-4,Monday,ChanceT-storms,High: 88 °F
-5,MondayNight,ChanceT-storms thenMostly Cloudy,Low: 81 °F
-6,Tuesday,ChanceT-storms,High: 88 °F
-7,TuesdayNight,ChanceT-storms,Low: 81 °F
-8,Wednesday,ChanceT-storms,High: 87 °F
+0,Tonight,Partly Cloudy,Low: 80 °F
+1,Monday,Sunny,High: 88 °F
+2,MondayNight,Mostly Clear,Low: 81 °F
+3,Tuesday,Sunny thenSlight ChanceT-storms,High: 89 °F
+4,TuesdayNight,Slight ChanceT-storms thenPartly Cloudy,Low: 81 °F
+5,Wednesday,Mostly Sunnythen ChanceT-storms,High: 88 °F
+6,WednesdayNight,ChanceT-storms thenPartly Cloudy,Low: 80 °F
+7,Thursday,Mostly Sunnythen ChanceT-storms,High: 87 °F
+8,ThursdayNight,ChanceT-storms thenPartly Cloudy,Low: 81 °F

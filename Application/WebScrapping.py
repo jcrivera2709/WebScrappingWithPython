@@ -5,6 +5,7 @@ import pandas as pd
 url = requests.get('https://forecast.weather.gov/MapClick.php?lat=26.71440000000007&lon=-80.05328999999995')
 soup = BeautifulSoup(url.content, 'html.parser')
 week_info = soup.find(id='seven-day-forecast')
+
 # print(week_info)
 
 items = week_info.find_all(class_='tombstone-container')
